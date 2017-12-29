@@ -40,5 +40,8 @@
   "homepage": "https://github.com/SethDonohue/16-19-auth#readme",
   "directories": {
     "lib": "lib"
+  },
+  "engines": {
+    "node": "8.9.3"
   }
 }
